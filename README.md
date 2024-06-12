@@ -1,4 +1,4 @@
-# task 1:
+# task 1 :
 we create 8 notebooks for task 1 are as follows:
 1. Variable selection and rules of varible seletion.
 2. Operaters and it's 7 types. arithmatic, assignment ,logical, comparision, identity, membership, bitwise oprater,ect.are operaters.
