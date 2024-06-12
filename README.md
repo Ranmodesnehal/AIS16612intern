@@ -50,4 +50,8 @@ In this task we created 5 notebooks of pandas as follows:
 4. Selection in dataframe using row or coloumn selection, delete, update, index, remove index, etc and operations between two dataframes with examples.
 5.  Missing values: checking for missing values, dropping missing values and fill missing values.
 
+# task 6 :
+In this task we create 2 nootebooks of matplotlib and seaborn library
+1. matplotlib: data visuallization like scatter ,histogram ,pie chart, etc.
+2. seaborn: all type of data visuallization and examples.
 
