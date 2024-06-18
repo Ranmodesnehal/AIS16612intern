@@ -51,7 +51,15 @@ In this task we created 5 notebooks of pandas as follows:
 5.  Missing values: checking for missing values, dropping missing values and fill missing values.
 
 # Task 6 :
+
 In this task we create 2 nootebooks of matplotlib and seaborn library
 1. matplotlib: data visuallization like scatter ,histogram ,pie chart, etc.
 2. seaborn: all type of data visuallization and examples.
+
+# Task 7 :
+
+In this task there are three notebooks of exercises.
+1. Numpy : exmples of array,matrix array,how to create random numbers from distributions,etc.
+2. Different operations on dataset of ecommerce purchases and salary dataset.
+
 
