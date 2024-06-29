@@ -62,56 +62,56 @@ In this task there are three notebooks of exercises.
 1. Numpy : exmples of array,matrix array,how to create random numbers from distributions,etc.
 2. Different operations on dataset of ecommerce purchases and salary dataset.
 
-# Task 8 :
+# Task 8 :   
 In this task we create three notebooks of exercises. In that we done some opration of gven data.
-1. NumPy exercise
-2. Ecommarce Purchases
-3. Salaries exercise
+1. NumPy exercise   
+2. Ecommarce Purchases   
+3. Salaries exercise   
 
-# Case Study :
+# Case Study :     
 
-In this case study taitanic data set was downloded from kaggle.
+In this case study taitanic data set was downloded from kaggle.     
 
-* Data importing
+* Data importing :        
   data import by using csv files and import necessary libraries.
-* data preprocessing : 
+* data preprocessing :    
     In that we find missing value ,fill or drop, if need drop variable ,label encoding for categorical variable ,ect
-* Visualisation:
+* Visualisation:     
     we plot different plots like bar plot , scatter plot ,joint bar plot, Pie chart, etc.
-* Model building:
+* Model building:   
     choose dependent and independent variables ,split data into train test ,80:20.
-* Model building
-     In that 3 algorithems are done i.e Naive bays model on train data,  knn algorithm ,decision tree.
-     In that first import algorithms and predict test data using fitted model.
-* Model evaluation: 
-   find accuracy ,find classification report, find confusion matrics.
-* Comparison:
-   create dataframe of comparision Accuracy,recall and precision.
+* Model building:     
+     In that 3 algorithems are done i.e Naive bays model on train data,  knn algorithm ,decision tree.   
+     In that first import algorithms and predict test data using fitted model.   
+* Model evaluation:         
+   find accuracy ,find classification report, find confusion matrices.      
+* Comparison:   
+   create dataframe of comparision Accuracy,recall and precision.   
 
-  # Dashboard :
+  # Dashboard :    
 
-  On our project data (Customer churn analysis) we created dashboard for more visualization of data.
-  power BI software is used for creating dashboard of customer churn analyze.
+  On our project data (Customer churn analysis) we created dashboard for more visualization of data.    
+  power BI software is used for creating dashboard of customer churn analyze.     
 
-  # Final Project :
+  # Final Project :    
 
-  Final project topic is customer OTT churn analysis.
-  About the project :
-     importing the data from kaggle 
-* data preprocessing : 
-    In that we find missing value ,fill or drop, if need drop variable ,label encoding for categorical variable ,ect
-* Visualisation:
-    we plot different plots like bar plot , scatter plot ,joint bar plot,Pie chart, etc
-* Model building:
-     Choose dependent and independent variables from data ,split data into train test , 80:20.
-     In that 10 different algorithems are done i.e Logistic , Naive bays model , knn algorithm ,decision tree ,Random forest , ect.
-     In that first import algorithms , fit model and predict test data using fitted model. also find accuracy ,precision , classification report and confusion matrics.
-     GridSearchCV algorithem is also used for model building.
-     Select Feature importance using decision tree and there models.
-* Comparison:
-    GridSearchCV and Basic models.
-    Feature importance and GridSearchCV.
-* Dashboard:
+  Final project topic is customer OTT churn analysis.     
+  About the project :   
+     importing the data from kaggle    
+* data preprocessing :    
+    In that we find missing value ,fill or drop, if need drop variable ,label encoding for categorical variable ,ect    
+* Visualisation:     
+    we plot different plots like bar plot , scatter plot ,joint bar plot,Pie chart, etc   
+* Model building:    
+     Choose dependent and independent variables from data ,split data into train test , 80:20.    
+     In that 10 different algorithems are done i.e Logistic , Naive bays model , knn algorithm ,decision tree ,Random forest , ect.     
+     In that first import algorithms , fit model and predict test data using fitted model. also find accuracy ,precision , classification report and confusion matrics.   
+     GridSearchCV algorithem is also used for model building.     
+     Select Feature importance using decision tree and there models.     
+* Comparison:     
+    GridSearchCV and Basic models.    
+    Feature importance and GridSearchCV.     
+* Dashboard:    
    
   
 
